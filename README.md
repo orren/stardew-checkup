@@ -6,7 +6,7 @@ This app checks a [Stardew Valley](http://stardewvalley.net/) save file for vari
 
 Most changed & added content from version 1.5 is supported, and 1.5-specific features should only appear in the results if the save is detected to be from that version. If you load a 1.5 save into the app, expect to see spoilers. There is now some spoiler protection for major systems by using the Output Preferences to hide some section results, but the titles of the new sections will still be visible and new items will still appear in the details of old sections.
 
-The app is written in Javascript and uses [jQuery](https://jquery.com/), [emver-compare](https://github.com/substack/semver-compare) and [Javascript Cookie](https://github.com/js-cookie/js-cookie); it is hosted on GitHub Pages at https://mouseypounds.github.io/stardew-checkup/ and the source code repository is https://github.com/MouseyPounds/stardew-checkup. Please report any bugs, suggestions, or other feedback to [the topic in the Chucklefish forums](https://community.playstarbound.com/threads/webapp-stardew-checkup-achievement-completion-progress.141706/).
+The app is written in Javascript and uses [jQuery](https://jquery.com/), [emver-compare](https://github.com/substack/semver-compare) and [Javascript Cookie](https://github.com/js-cookie/js-cookie); it is a fork of the original project by mouseypounds, with only additional bugfixes applied. That project can be found at https://mouseypounds.github.io/stardew-checkup/ . The source code repository of this app is https://github.com/orren/stardew-checkup.
 
 ## Changelog
 
